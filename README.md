@@ -1,6 +1,5 @@
-# dio-desafio-LocalizaLabsDeveloper2
+# Desafio LocalizaLabs Developer #2
 Repositório do Desafio LocalizaLabs .NET Developer #2
-
 
 
 ## Links Úteis
